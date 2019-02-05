@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">New Haven Food Spots</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--This is the list of string resources for all the food spots -->
+    <string name="soul_de_cuba_name">Soul De Cuba Cafe</string>
+    <string name="soul_de_cuba_info">Soul De Cuba Cafe is a snug place for Cuban cuisine.</string>
+    <string name="pad_thai_name">Pad Thai</string>
+    <string name="pad_thai_info">Pad Thai serves curries and noodles!</string>
+    <string name="bar_name">Bar</string>
+    <string name="bar_info">Pizza and beer. Nuff said. </string>
+    <string name="pepes_pizza_name">Pepe\'s Pizza</string>
+    <string name="pepes_pizza_info">Pepe\'s Pizza is a world famous pizza place.</string>
+    <string name="pitaziki_name">Pitaziki Mediterranean</string>
+    <string name="pitaziki_info">Pitaziki Mediterranean serves rice bowls and more. </string>
+    <string name="claires_name">Claire\'s Corner Copia</string>
+    <string name="claires_info">Claire\'s Corner Copia is a kosher vegetarian option.</string>
+    <string name="dAmatos_name">D\'Amato\'s Seafood</string>
+    <string name="dAmatos_info">D\'Amato\'s Seafood serves the best seafood in the area.</string>
+    <string name="prime16_name">Prime 16</string>
+    <string name="prime16_info">Prime 16 is the spot for burgers and beer.</string>
+
+    <!--These are the title pages for the different lists of foodSpots -->
+    <string name="category_culture">Cultural</string>
+    <string name="category_pizza">Pizza</string>
+    <string name="category_healthy">Healthy</string>
+    <string name="category_sandwich">Sandwiches</string>
+
+</resources>
